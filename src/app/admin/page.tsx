@@ -1,0 +1,1 @@
+export { Admin as default } from '~/pages/rune-page/ui/Admin';
